@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 590c5a8d95a38ab4a83046532364db9b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Habanera
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d8be8418cbb1db14faabce7faeac7a1a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

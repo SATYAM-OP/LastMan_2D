@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FxTemporaire
+  - Wall
+  - Bomb
+  - CollectAll
+  - KillAll
+  - Enemy
+  - SawBloody
+  - Collectable
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Enemy
+  - SawBloody
+  - ForceField
+  - Bomb
+  - Colleactable
+  - IgnorePlayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Blades
+    uniqueID: 2747176119
+    locked: 0
+  - name: Top
+    uniqueID: 1586462141
+    locked: 0
